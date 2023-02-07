@@ -1,0 +1,6 @@
+Mon Feb  6 10:27:56 2023
+------------------
+my name is abul kasem. ama 
+Key.shift_r l\x16Key.ctrl_l\x03Key.ctrl_l\x16
+my name is abul kasem. ama 
+Key.shift_r Key.esc
